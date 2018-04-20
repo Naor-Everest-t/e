@@ -1,0 +1,9 @@
+T:\Everest\e\VerCheck2\VerCheck2\bin\Debug\VerCheck2.exe.config
+T:\Everest\e\VerCheck2\VerCheck2\bin\Debug\VerCheck2.exe
+T:\Everest\e\VerCheck2\VerCheck2\bin\Debug\VerCheck2.pdb
+T:\Everest\e\VerCheck2\VerCheck2\obj\Debug\VerCheck2.Form1.resources
+T:\Everest\e\VerCheck2\VerCheck2\obj\Debug\VerCheck2.Properties.Resources.resources
+T:\Everest\e\VerCheck2\VerCheck2\obj\Debug\VerCheck2.csproj.GenerateResource.cache
+T:\Everest\e\VerCheck2\VerCheck2\obj\Debug\VerCheck2.csproj.CoreCompileInputs.cache
+T:\Everest\e\VerCheck2\VerCheck2\obj\Debug\VerCheck2.exe
+T:\Everest\e\VerCheck2\VerCheck2\obj\Debug\VerCheck2.pdb
